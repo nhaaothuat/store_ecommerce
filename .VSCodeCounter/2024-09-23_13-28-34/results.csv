@@ -1,0 +1,71 @@
+"filename", "language", "Properties", "JavaScript", "JSON", "Markdown", "HTML", "CSS", "JavaScript JSX", "XML", "comment", "blank", "total"
+"e:\new project\wdp\admin\README.md", "Markdown", 0, 0, 0, 5, 0, 0, 0, 0, 0, 4, 9
+"e:\new project\wdp\admin\eslint.config.js", "JavaScript", 0, 37, 0, 0, 0, 0, 0, 0, 0, 2, 39
+"e:\new project\wdp\admin\index.html", "HTML", 0, 0, 0, 0, 13, 0, 0, 0, 0, 1, 14
+"e:\new project\wdp\admin\package-lock.json", "JSON", 0, 0, 4321, 0, 0, 0, 0, 0, 0, 1, 4322
+"e:\new project\wdp\admin\package.json", "JSON", 0, 0, 32, 0, 0, 0, 0, 0, 0, 1, 33
+"e:\new project\wdp\admin\public\vite.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"e:\new project\wdp\admin\src\App.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"e:\new project\wdp\admin\src\App.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 27, 0, 0, 3, 30
+"e:\new project\wdp\admin\src\assets\react.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"e:\new project\wdp\admin\src\components\Navbar\Navbar.css", "CSS", 0, 0, 0, 0, 0, 12, 0, 0, 0, 2, 14
+"e:\new project\wdp\admin\src\components\Navbar\Navbar.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 35, 0, 0, 3, 38
+"e:\new project\wdp\admin\src\components\Sidebar\SideBar.css", "CSS", 0, 0, 0, 0, 0, 28, 0, 0, 0, 3, 31
+"e:\new project\wdp\admin\src\components\Sidebar\SideBar.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 26, 0, 0, 2, 28
+"e:\new project\wdp\admin\src\index.css", "CSS", 0, 0, 0, 0, 0, 28, 0, 0, 0, 7, 35
+"e:\new project\wdp\admin\src\main.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 10, 0, 0, 2, 12
+"e:\new project\wdp\admin\src\pages\Add\Add.css", "CSS", 0, 0, 0, 0, 0, 37, 0, 0, 0, 7, 44
+"e:\new project\wdp\admin\src\pages\Add\Add.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 118, 0, 4, 11, 133
+"e:\new project\wdp\admin\src\pages\List\List.css", "CSS", 0, 0, 0, 0, 0, 19, 0, 0, 0, 3, 22
+"e:\new project\wdp\admin\src\pages\List\List.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 58, 0, 1, 9, 68
+"e:\new project\wdp\admin\src\pages\Orders\Order.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"e:\new project\wdp\admin\src\pages\Orders\Order.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 9, 0, 0, 3, 12
+"e:\new project\wdp\admin\vite.config.js", "JavaScript", 0, 5, 0, 0, 0, 0, 0, 0, 1, 2, 8
+"e:\new project\wdp\backend\.env", "Properties", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2
+"e:\new project\wdp\backend\config\db.js", "JavaScript", 0, 10, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"e:\new project\wdp\backend\controllers\foodController.js", "JavaScript", 0, 40, 0, 0, 0, 0, 0, 0, 1, 14, 55
+"e:\new project\wdp\backend\controllers\userController.js", "JavaScript", 0, 54, 0, 0, 0, 0, 0, 0, 0, 23, 77
+"e:\new project\wdp\backend\index.js", "JavaScript", 0, 22, 0, 0, 0, 0, 0, 0, 2, 7, 31
+"e:\new project\wdp\backend\models\foodModel.js", "JavaScript", 0, 13, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"e:\new project\wdp\backend\models\userModel.js", "JavaScript", 0, 9, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"e:\new project\wdp\backend\package-lock.json", "JSON", 0, 0, 2048, 0, 0, 0, 0, 0, 0, 1, 2049
+"e:\new project\wdp\backend\package.json", "JSON", 0, 0, 26, 0, 0, 0, 0, 0, 0, 1, 27
+"e:\new project\wdp\backend\routes\foodRoute.js", "JavaScript", 0, 15, 0, 0, 0, 0, 0, 0, 0, 5, 20
+"e:\new project\wdp\backend\routes\userRoute.js", "JavaScript", 0, 6, 0, 0, 0, 0, 0, 0, 0, 6, 12
+"e:\new project\wdp\frontend\README.md", "Markdown", 0, 0, 0, 5, 0, 0, 0, 0, 0, 4, 9
+"e:\new project\wdp\frontend\eslint.config.js", "JavaScript", 0, 37, 0, 0, 0, 0, 0, 0, 0, 2, 39
+"e:\new project\wdp\frontend\index.html", "HTML", 0, 0, 0, 0, 13, 0, 0, 0, 0, 1, 14
+"e:\new project\wdp\frontend\package-lock.json", "JSON", 0, 0, 4321, 0, 0, 0, 0, 0, 0, 1, 4322
+"e:\new project\wdp\frontend\package.json", "JSON", 0, 0, 32, 0, 0, 0, 0, 0, 0, 1, 33
+"e:\new project\wdp\frontend\public\vite.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"e:\new project\wdp\frontend\src\App.css", "CSS", 0, 0, 0, 0, 0, 37, 0, 0, 0, 6, 43
+"e:\new project\wdp\frontend\src\App.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 26, 0, 0, 4, 30
+"e:\new project\wdp\frontend\src\assets\react.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"e:\new project\wdp\frontend\src\components\AppDowload\AppDowload.css", "CSS", 0, 0, 0, 0, 0, 21, 0, 0, 1, 5, 27
+"e:\new project\wdp\frontend\src\components\AppDowload\AppDowload.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 2, 18
+"e:\new project\wdp\frontend\src\components\ExploreMenu\ExploreMenu.css", "CSS", 0, 0, 0, 0, 0, 48, 0, 0, 0, 8, 56
+"e:\new project\wdp\frontend\src\components\ExploreMenu\ExploreMenu.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 67, 0, 0, 4, 71
+"e:\new project\wdp\frontend\src\components\FoodDisplay\FoodDisplay.css", "CSS", 0, 0, 0, 0, 0, 14, 0, 0, 0, 2, 16
+"e:\new project\wdp\frontend\src\components\FoodDisplay\FoodDisplay.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 22, 0, 0, 3, 25
+"e:\new project\wdp\frontend\src\components\FoodItem\FoodItem.css", "CSS", 0, 0, 0, 0, 0, 66, 0, 0, 0, 14, 80
+"e:\new project\wdp\frontend\src\components\FoodItem\FoodItem.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 45, 0, 0, 5, 50
+"e:\new project\wdp\frontend\src\components\LoginPopup\LoginPopup.css", "CSS", 0, 0, 0, 0, 0, 65, 0, 0, 0, 9, 74
+"e:\new project\wdp\frontend\src\components\LoginPopup\LoginPopup.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 99, 0, 0, 12, 111
+"e:\new project\wdp\frontend\src\components\footer\Footer.css", "CSS", 0, 0, 0, 0, 0, 43, 0, 0, 0, 6, 49
+"e:\new project\wdp\frontend\src\components\footer\Footer.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 126, 0, 0, 2, 128
+"e:\new project\wdp\frontend\src\components\header\Header.css", "CSS", 0, 0, 0, 0, 0, 36, 0, 0, 0, 4, 40
+"e:\new project\wdp\frontend\src\components\header\Header.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 19, 0, 0, 2, 21
+"e:\new project\wdp\frontend\src\components\navbar\Navbar.css", "CSS", 0, 0, 0, 0, 0, 90, 0, 0, 0, 17, 107
+"e:\new project\wdp\frontend\src\components\navbar\Navbar.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 171, 0, 0, 4, 175
+"e:\new project\wdp\frontend\src\context\StoreContext.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 50, 0, 0, 8, 58
+"e:\new project\wdp\frontend\src\context\food_list.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 290, 0, 1, 7, 298
+"e:\new project\wdp\frontend\src\index.css", "CSS", 0, 0, 0, 0, 0, 27, 0, 0, 0, 5, 32
+"e:\new project\wdp\frontend\src\main.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 13, 0, 0, 1, 14
+"e:\new project\wdp\frontend\src\pages\cart\Cart.css", "CSS", 0, 0, 0, 0, 0, 85, 0, 0, 0, 15, 100
+"e:\new project\wdp\frontend\src\pages\cart\Cart.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 77, 0, 0, 4, 81
+"e:\new project\wdp\frontend\src\pages\home\Home.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"e:\new project\wdp\frontend\src\pages\home\Home.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 18, 0, 0, 8, 26
+"e:\new project\wdp\frontend\src\pages\placeorder\PlaceOrder.css", "CSS", 0, 0, 0, 0, 0, 36, 0, 0, 0, 6, 42
+"e:\new project\wdp\frontend\src\pages\placeorder\PlaceOrder.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 51, 0, 0, 5, 56
+"e:\new project\wdp\frontend\vite.config.js", "JavaScript", 0, 5, 0, 0, 0, 0, 0, 0, 1, 2, 8
+"Total", "-", 2, 253, 10780, 10, 26, 692, 1373, 4, 12, 313, 13465

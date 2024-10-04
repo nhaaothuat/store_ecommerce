@@ -1,0 +1,10 @@
+"filename", "language", "HTML", "JavaScript JSX", "CSS", "JSON", "comment", "blank", "total"
+"e:\new project\wdp\frontend\index.html", "HTML", 1, 0, 0, 0, 0, 0, 1
+"e:\new project\wdp\frontend\package-lock.json", "JSON", 0, 0, 0, 25, 0, 0, 25
+"e:\new project\wdp\frontend\package.json", "JSON", 0, 0, 0, 3, 0, 0, 3
+"e:\new project\wdp\frontend\src\App.jsx", "JavaScript JSX", 0, 2, 0, 0, 0, -1, 1
+"e:\new project\wdp\frontend\src\components\FoodItem\FoodItem.css", "CSS", 0, 0, 0, 0, 0, 1, 1
+"e:\new project\wdp\frontend\src\components\LoginPopup\LoginPopup.jsx", "JavaScript JSX", 0, 19, 0, 0, 2, -1, 20
+"e:\new project\wdp\frontend\src\components\Test\Test.jsx", "JavaScript JSX", 0, 75, 0, 0, 3, 7, 85
+"e:\new project\wdp\frontend\src\context\StoreContext.jsx", "JavaScript JSX", 0, 10, 0, 0, 0, 3, 13
+"Total", "-", 1, 106, 0, 28, 5, 9, 149

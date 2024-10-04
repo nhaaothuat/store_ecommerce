@@ -1,0 +1,139 @@
+Date : 2024-09-23 13:28:34
+Directory : e:\new project\wdp
+Total : 69 files,  13140 codes, 12 comments, 313 blanks, all 13465 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JSON           |          6 |     10,780 |          0 |          6 |     10,786 |
+| JavaScript JSX |         22 |      1,373 |          6 |        104 |      1,483 |
+| CSS            |         20 |        692 |          1 |        122 |        815 |
+| JavaScript     |         12 |        253 |          5 |         71 |        329 |
+| HTML           |          2 |         26 |          0 |          2 |         28 |
+| Markdown       |          2 |         10 |          0 |          8 |         18 |
+| XML            |          4 |          4 |          0 |          0 |          4 |
+| Properties     |          1 |          2 |          0 |          0 |          2 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                   | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                      |         69 |     13,140 |         12 |        313 |     13,465 |
+| admin                                                                  |         22 |      4,822 |          6 |         68 |      4,896 |
+| admin (Files)                                                          |          6 |      4,413 |          1 |         11 |      4,425 |
+| admin\public                                                           |          1 |          1 |          0 |          0 |          1 |
+| admin\src                                                              |         15 |        408 |          5 |         57 |        470 |
+| admin\src (Files)                                                      |          4 |         65 |          0 |         13 |         78 |
+| admin\src\assets                                                       |          1 |          1 |          0 |          0 |          1 |
+| admin\src\components                                                   |          4 |        101 |          0 |         10 |        111 |
+| admin\src\components\Navbar                                            |          2 |         47 |          0 |          5 |         52 |
+| admin\src\components\Sidebar                                           |          2 |         54 |          0 |          5 |         59 |
+| admin\src\pages                                                        |          6 |        241 |          5 |         34 |        280 |
+| admin\src\pages\Add                                                    |          2 |        155 |          4 |         18 |        177 |
+| admin\src\pages\List                                                   |          2 |         77 |          1 |         12 |         90 |
+| admin\src\pages\Orders                                                 |          2 |          9 |          0 |          4 |         13 |
+| backend                                                                |         11 |      2,245 |          3 |         65 |      2,313 |
+| backend (Files)                                                        |          4 |      2,098 |          2 |          9 |      2,109 |
+| backend\config                                                         |          1 |         10 |          0 |          2 |         12 |
+| backend\controllers                                                    |          2 |         94 |          1 |         37 |        132 |
+| backend\models                                                         |          2 |         22 |          0 |          6 |         28 |
+| backend\routes                                                         |          2 |         21 |          0 |         11 |         32 |
+| frontend                                                               |         36 |      6,073 |          3 |        180 |      6,256 |
+| frontend (Files)                                                       |          6 |      4,413 |          1 |         11 |      4,425 |
+| frontend\public                                                        |          1 |          1 |          0 |          0 |          1 |
+| frontend\src                                                           |         29 |      1,659 |          2 |        169 |      1,830 |
+| frontend\src (Files)                                                   |          4 |        103 |          0 |         16 |        119 |
+| frontend\src\assets                                                    |          1 |          1 |          0 |          0 |          1 |
+| frontend\src\components                                                |         16 |        948 |          1 |         99 |      1,048 |
+| frontend\src\components\AppDowload                                     |          2 |         37 |          1 |          7 |         45 |
+| frontend\src\components\ExploreMenu                                    |          2 |        115 |          0 |         12 |        127 |
+| frontend\src\components\FoodDisplay                                    |          2 |         36 |          0 |          5 |         41 |
+| frontend\src\components\FoodItem                                       |          2 |        111 |          0 |         19 |        130 |
+| frontend\src\components\LoginPopup                                     |          2 |        164 |          0 |         21 |        185 |
+| frontend\src\components\footer                                         |          2 |        169 |          0 |          8 |        177 |
+| frontend\src\components\header                                         |          2 |         55 |          0 |          6 |         61 |
+| frontend\src\components\navbar                                         |          2 |        261 |          0 |         21 |        282 |
+| frontend\src\context                                                   |          2 |        340 |          1 |         15 |        356 |
+| frontend\src\pages                                                     |          6 |        267 |          0 |         39 |        306 |
+| frontend\src\pages\cart                                                |          2 |        162 |          0 |         19 |        181 |
+| frontend\src\pages\home                                                |          2 |         18 |          0 |          9 |         27 |
+| frontend\src\pages\placeorder                                          |          2 |         87 |          0 |         11 |         98 |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                               | language       | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| e:\new project\wdp\admin\README.md                                     | Markdown       |          5 |          0 |          4 |          9 |
+| e:\new project\wdp\admin\eslint.config.js                              | JavaScript     |         37 |          0 |          2 |         39 |
+| e:\new project\wdp\admin\index.html                                    | HTML           |         13 |          0 |          1 |         14 |
+| e:\new project\wdp\admin\package-lock.json                             | JSON           |      4,321 |          0 |          1 |      4,322 |
+| e:\new project\wdp\admin\package.json                                  | JSON           |         32 |          0 |          1 |         33 |
+| e:\new project\wdp\admin\public\vite.svg                               | XML            |          1 |          0 |          0 |          1 |
+| e:\new project\wdp\admin\src\App.css                                   | CSS            |          0 |          0 |          1 |          1 |
+| e:\new project\wdp\admin\src\App.jsx                                   | JavaScript JSX |         27 |          0 |          3 |         30 |
+| e:\new project\wdp\admin\src\assets\react.svg                          | XML            |          1 |          0 |          0 |          1 |
+| e:\new project\wdp\admin\src\components\Navbar\Navbar.css              | CSS            |         12 |          0 |          2 |         14 |
+| e:\new project\wdp\admin\src\components\Navbar\Navbar.jsx              | JavaScript JSX |         35 |          0 |          3 |         38 |
+| e:\new project\wdp\admin\src\components\Sidebar\SideBar.css            | CSS            |         28 |          0 |          3 |         31 |
+| e:\new project\wdp\admin\src\components\Sidebar\SideBar.jsx            | JavaScript JSX |         26 |          0 |          2 |         28 |
+| e:\new project\wdp\admin\src\index.css                                 | CSS            |         28 |          0 |          7 |         35 |
+| e:\new project\wdp\admin\src\main.jsx                                  | JavaScript JSX |         10 |          0 |          2 |         12 |
+| e:\new project\wdp\admin\src\pages\Add\Add.css                         | CSS            |         37 |          0 |          7 |         44 |
+| e:\new project\wdp\admin\src\pages\Add\Add.jsx                         | JavaScript JSX |        118 |          4 |         11 |        133 |
+| e:\new project\wdp\admin\src\pages\List\List.css                       | CSS            |         19 |          0 |          3 |         22 |
+| e:\new project\wdp\admin\src\pages\List\List.jsx                       | JavaScript JSX |         58 |          1 |          9 |         68 |
+| e:\new project\wdp\admin\src\pages\Orders\Order.css                    | CSS            |          0 |          0 |          1 |          1 |
+| e:\new project\wdp\admin\src\pages\Orders\Order.jsx                    | JavaScript JSX |          9 |          0 |          3 |         12 |
+| e:\new project\wdp\admin\vite.config.js                                | JavaScript     |          5 |          1 |          2 |          8 |
+| e:\new project\wdp\backend\.env                                        | Properties     |          2 |          0 |          0 |          2 |
+| e:\new project\wdp\backend\config\db.js                                | JavaScript     |         10 |          0 |          2 |         12 |
+| e:\new project\wdp\backend\controllers\foodController.js               | JavaScript     |         40 |          1 |         14 |         55 |
+| e:\new project\wdp\backend\controllers\userController.js               | JavaScript     |         54 |          0 |         23 |         77 |
+| e:\new project\wdp\backend\index.js                                    | JavaScript     |         22 |          2 |          7 |         31 |
+| e:\new project\wdp\backend\models\foodModel.js                         | JavaScript     |         13 |          0 |          3 |         16 |
+| e:\new project\wdp\backend\models\userModel.js                         | JavaScript     |          9 |          0 |          3 |         12 |
+| e:\new project\wdp\backend\package-lock.json                           | JSON           |      2,048 |          0 |          1 |      2,049 |
+| e:\new project\wdp\backend\package.json                                | JSON           |         26 |          0 |          1 |         27 |
+| e:\new project\wdp\backend\routes\foodRoute.js                         | JavaScript     |         15 |          0 |          5 |         20 |
+| e:\new project\wdp\backend\routes\userRoute.js                         | JavaScript     |          6 |          0 |          6 |         12 |
+| e:\new project\wdp\frontend\README.md                                  | Markdown       |          5 |          0 |          4 |          9 |
+| e:\new project\wdp\frontend\eslint.config.js                           | JavaScript     |         37 |          0 |          2 |         39 |
+| e:\new project\wdp\frontend\index.html                                 | HTML           |         13 |          0 |          1 |         14 |
+| e:\new project\wdp\frontend\package-lock.json                          | JSON           |      4,321 |          0 |          1 |      4,322 |
+| e:\new project\wdp\frontend\package.json                               | JSON           |         32 |          0 |          1 |         33 |
+| e:\new project\wdp\frontend\public\vite.svg                            | XML            |          1 |          0 |          0 |          1 |
+| e:\new project\wdp\frontend\src\App.css                                | CSS            |         37 |          0 |          6 |         43 |
+| e:\new project\wdp\frontend\src\App.jsx                                | JavaScript JSX |         26 |          0 |          4 |         30 |
+| e:\new project\wdp\frontend\src\assets\react.svg                       | XML            |          1 |          0 |          0 |          1 |
+| e:\new project\wdp\frontend\src\components\AppDowload\AppDowload.css   | CSS            |         21 |          1 |          5 |         27 |
+| e:\new project\wdp\frontend\src\components\AppDowload\AppDowload.jsx   | JavaScript JSX |         16 |          0 |          2 |         18 |
+| e:\new project\wdp\frontend\src\components\ExploreMenu\ExploreMenu.css | CSS            |         48 |          0 |          8 |         56 |
+| e:\new project\wdp\frontend\src\components\ExploreMenu\ExploreMenu.jsx | JavaScript JSX |         67 |          0 |          4 |         71 |
+| e:\new project\wdp\frontend\src\components\FoodDisplay\FoodDisplay.css | CSS            |         14 |          0 |          2 |         16 |
+| e:\new project\wdp\frontend\src\components\FoodDisplay\FoodDisplay.jsx | JavaScript JSX |         22 |          0 |          3 |         25 |
+| e:\new project\wdp\frontend\src\components\FoodItem\FoodItem.css       | CSS            |         66 |          0 |         14 |         80 |
+| e:\new project\wdp\frontend\src\components\FoodItem\FoodItem.jsx       | JavaScript JSX |         45 |          0 |          5 |         50 |
+| e:\new project\wdp\frontend\src\components\LoginPopup\LoginPopup.css   | CSS            |         65 |          0 |          9 |         74 |
+| e:\new project\wdp\frontend\src\components\LoginPopup\LoginPopup.jsx   | JavaScript JSX |         99 |          0 |         12 |        111 |
+| e:\new project\wdp\frontend\src\components\footer\Footer.css           | CSS            |         43 |          0 |          6 |         49 |
+| e:\new project\wdp\frontend\src\components\footer\Footer.jsx           | JavaScript JSX |        126 |          0 |          2 |        128 |
+| e:\new project\wdp\frontend\src\components\header\Header.css           | CSS            |         36 |          0 |          4 |         40 |
+| e:\new project\wdp\frontend\src\components\header\Header.jsx           | JavaScript JSX |         19 |          0 |          2 |         21 |
+| e:\new project\wdp\frontend\src\components\navbar\Navbar.css           | CSS            |         90 |          0 |         17 |        107 |
+| e:\new project\wdp\frontend\src\components\navbar\Navbar.jsx           | JavaScript JSX |        171 |          0 |          4 |        175 |
+| e:\new project\wdp\frontend\src\context\StoreContext.jsx               | JavaScript JSX |         50 |          0 |          8 |         58 |
+| e:\new project\wdp\frontend\src\context\food_list.jsx                  | JavaScript JSX |        290 |          1 |          7 |        298 |
+| e:\new project\wdp\frontend\src\index.css                              | CSS            |         27 |          0 |          5 |         32 |
+| e:\new project\wdp\frontend\src\main.jsx                               | JavaScript JSX |         13 |          0 |          1 |         14 |
+| e:\new project\wdp\frontend\src\pages\cart\Cart.css                    | CSS            |         85 |          0 |         15 |        100 |
+| e:\new project\wdp\frontend\src\pages\cart\Cart.jsx                    | JavaScript JSX |         77 |          0 |          4 |         81 |
+| e:\new project\wdp\frontend\src\pages\home\Home.css                    | CSS            |          0 |          0 |          1 |          1 |
+| e:\new project\wdp\frontend\src\pages\home\Home.jsx                    | JavaScript JSX |         18 |          0 |          8 |         26 |
+| e:\new project\wdp\frontend\src\pages\placeorder\PlaceOrder.css        | CSS            |         36 |          0 |          6 |         42 |
+| e:\new project\wdp\frontend\src\pages\placeorder\PlaceOrder.jsx        | JavaScript JSX |         51 |          0 |          5 |         56 |
+| e:\new project\wdp\frontend\vite.config.js                             | JavaScript     |          5 |          1 |          2 |          8 |
+| Total                                                                  |                |     13,140 |         12 |        313 |     13,465 |
++------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
